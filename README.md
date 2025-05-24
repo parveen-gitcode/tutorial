@@ -1,3 +1,3 @@
 # tutorial
 # Deployment
-# Devops basic concepts
+ Devops basic concepts & technologies
